@@ -1,0 +1,60 @@
+#container {
+    border: 4px solid black;
+    height: 35vh;
+    margin: 30px;
+}
+
+#purple-box {
+    background: purple;
+    display: inline-block;
+    width: 60px;
+    height: 120px;
+    margin-left: 40px;
+}
+
+#green-rect {
+    background: green;
+    width: 20%;
+    height: 150px;
+    display: inline-block;
+    margin-left: 40px;
+}
+
+#circle {
+    background: lightblue;
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    margin-left: 40px;
+    border-radius: 100%;
+}
+
+#container2 {
+    border: 4px dotted grey;
+    height: 45vh;
+    margin: 30px;
+}
+
+#yellow-rect {
+    background: rgb(255, 251, 205);
+    width: 90%;
+    height: 30vh;
+    margin: 60px auto;
+    box-shadow: 10px 10px 5px grey;
+}
+
+
+h1 {
+    text-align: center;
+    border: 1px solid grey;
+    width: 30%;
+    padding: 150px 100px;
+    margin:0 auto;
+    font-size: 45px;
+    box-shadow: 5px 5px 5px darkgrey;
+    
+}
+
+.down {
+    margin-top: 4%;
+}
